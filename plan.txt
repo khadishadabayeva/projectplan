@@ -1,3 +1,4 @@
 - Do research
+- Do interview
 - Do requirements analysis
 - Do immplementation
